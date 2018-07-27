@@ -1,0 +1,13 @@
+Package: com.echozeppelin.edgytheme
+Name: Edgy Theme
+Version: 1.1
+Size: 46552
+Architecture: iphoneos-arm
+Description: A theme using default icons, but darker backgrounds.
+Maintainer: Echo Zeppelin <echolisk@gmail.com>
+Author: Echo Zeppelin <echolisk@gmail.com>
+Section: Themes
+MD5sum: 106f0f21cea5141fc480b1937187a3a2
+SHA1sum: 6004b2d0aa4811f714de3c3e8e8cdd55e1c7a4a2
+SHA256sum: 56919d81e24296cc1a5f3a8a15f2bde93a73fdecf10a64efc415f7a489c78b29
+Filename: debs/EdgyTheme.deb
