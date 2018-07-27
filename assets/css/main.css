@@ -103,7 +103,7 @@
 			opacity: 0;
 			z-index: 1;
 			background-color: #ffffff;
-			background-repeat: repeat,			no-repeat;
+			background-repeat: no-repeat,			no-repeat;
 			background-size: 100px 100px, cover;
 			background-position: top left,		center center;
 			-moz-transition: opacity 1.75s ease-out;
