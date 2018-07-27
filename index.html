@@ -10,9 +10,27 @@
 		</head>
 		<body>
 		</body>
+		<center>
+		<header>
 		<h1>Echo Zeppelin's Repo</h1>
 		<p>Add this repo</p>
+		<span class="avatar"><img src="images/avatar.png" alt="" /></span>
+		</header>
 		<ul class="icons">
 			<li><a href="cydia://url/https://cydia.saurik.com/api/share#?source=https%3A%2F%2Fechozeppelin.github.io" class="fa-plus">Add Repo</a></li>
 		</ul>
+		<footer id="footer">
+						<ul class="copyright">
+							<li>&copy;Echo Zeppelin 2018</li>
+						</ul>
+					</footer>
+		</center>
+		<!-- Scripts -->
+			<!--[if lte IE 8]><script src="assets/js/respond.min.js"></script><![endif]-->
+			<script>
+				if ('addEventListener' in window) {
+					window.addEventListener('load', function() { document.body.className = document.body.className.replace(/\bis-loading\b/, ''); });
+					document.body.className += (navigator.userAgent.match(/(MSIE|rv:11\.0)/) ? ' is-ie' : '');
+				}
+			</script>
 </HTML>
